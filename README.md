@@ -12,4 +12,7 @@ The dataset contains, roughly, four groups of files:
 -Aggregate ride and vehicle statistics for all FHV companies (and, occasionally, for taxi companies)
 
 ## Background & Motivation
+-Uber is high-tech company that connects the transportation industry with technology via its ride-sharing app.
+
+
 
