@@ -24,7 +24,7 @@ This data contains on over 4.5 million Uber pickups in New York City from April 
 
 - Overall, these issues impact the business of Uber, and it loses out on its revenue.
 
-## project Proposal
+## Project Proposal
 
 - In this project, our primary approach is to use Exploratory Data Analysis (EDA) to identify problems or suggestion, Data Cleaning, and add Visualization by plotting various graphs with proper aesthetics and geometry, clearly displaying important insights.
 
